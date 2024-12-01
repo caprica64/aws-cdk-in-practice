@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-import 'source-map-support/register';
 import * as cdk from 'aws-cdk-lib';
 import { Chapter1IntroductionToIacAndAwsCdkStack } from '../lib/chapter-1-introduction-to-iac-and-aws-cdk-stack';
 
